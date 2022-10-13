@@ -5,7 +5,6 @@
 <h3 align="center">A passionate frontend developer from Pakistan,Lahore</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbazkhan04" alt="arbazkhan04" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itx_arbaz238492" target="blank"><img src="https://img.shields.io/twitter/follow/itx_arbaz238492?logo=twitter&style=for-the-badge" alt="itx_arbaz238492" /></a> </p>
 
