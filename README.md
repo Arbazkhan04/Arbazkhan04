@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/itx_arbaz238492" target="blank"><img src="https://img.shields.io/twitter/follow/itx_arbaz238492?logo=twitter&style=for-the-badge" alt="itx_arbaz238492" /></a> </p>
 
-- 🌱 I’m currently learning **MEAN Stack and working on lot of projects like E-commerence and lot of other proejcts**
+- 🌱 I’m experienced MEAN Stack developer having hands on experience on both front end and backend.
 
 - 💬 Ask me about **Angular**
 
