@@ -6,7 +6,7 @@ I'm Arbaz khan, a Full Stack Software Engineer, Passionate about developing prod
 ## Tech Stack
 
 ### Web Development
-- **Frontend**: Angular
+- **Frontend**: Angular, React js
 - **Backend**: Node.js with Express
 - **Databases**: MongoDB, MySQL
 
