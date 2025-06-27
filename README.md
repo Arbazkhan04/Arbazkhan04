@@ -21,7 +21,12 @@
 ### 🤖 AI & Automation
 - **AI Tools:** OpenAI, LangChain  
 - **Languages:** Python, JavaScript  
-- **Use Cases:** Chatbots, domain name generators, content automation, and more  
+- **Key Use Cases:**  
+  - ✨ Domain name generators with valuation and availability check  
+  - 🧠 AI-based quiz/assignment generators for education platforms  
+  - 🤖 Intelligent chatbots for business automation  
+  - 📰 Content generation and rewriting tools  
+  - 📈 AI-powered analytics dashboards for sports & data-heavy apps  
 
 ### ☁️ DevOps & Cloud
 - **Cloud:** AWS  
