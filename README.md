@@ -11,4 +11,4 @@ I build full stack applications and cost-efficient AI systems, from APIs and eve
 **🛠️ Tech I work with**
 Python · TypeScript · FastAPI · Django · Node.js · React · Next.js · PostgreSQL · Kafka · AWS · Docker
 
-**📫 Reach me:** christianado0407@gmail.com · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
+**📫 Reach me:** christianado0407@gmail.com · [LinkedIn](https://linkedin.com/in/mohamed-ado-951490431)
